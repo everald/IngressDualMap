@@ -28,3 +28,15 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
+/.idea/libraries
+/.idea/workspace.xml
+.gradle
+/local.properties
+**.iml
+**.iws
+**.swp
+.DS_Store
+/build
+*/build
+/test
